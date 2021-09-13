@@ -1,6 +1,6 @@
 ## Git  
 
-#### Git의 3가지 영역  
+### Git의 3가지 영역  
 ➡️**Working Directory, Staging Area, Git Directory(Repository)** 3가지 작업영역으로 파일들을 관리합니다.  
 * Working Directory
   - Git이 추적중이 파일들이 위치하는 영역
@@ -15,7 +15,7 @@
   - Git이 프로젝트의 메타데이터와 데이터베이스를 저장하는 곳
   - 프로젝트의 버전 정보를 관리하기 위해 필요한 모든 파일이 저장되어 있다.  
 
-#### Git의 3가지 상태  
+### Git의 3가지 상태  
 ➡️Git은 파일의 변경사항을 버전별로 관리하기 위해 **Modified, Staged, Committed** 3가지 상태로 관리를 합니다.  
 * Modified
   - 수정한 파일을 로컬 데이터베이스에 commit 하지 않은 상태를 의미한다.
