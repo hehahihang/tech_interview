@@ -3,7 +3,7 @@
 ### Git의 3가지 영역  
 ➡️**Working Directory, Staging Area, Git Directory(Repository)** 3가지 작업영역으로 파일들을 관리합니다.  
 
-https://t1.daumcdn.net/cfile/tistory/99B3CE3D5B5AC35427  
+![99B3CE3D5B5AC35427](https://user-images.githubusercontent.com/57223501/133052358-f72ddf17-d4d6-442d-91f9-78d95c050f16.png)
 
 * Working Directory
   - Git이 추적중이 파일들이 위치하는 영역
