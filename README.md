@@ -5,4 +5,5 @@
 * [Network](Network.md)
 * [OS](OS.md)
 * [Git](Git.md)
-
+* [Network](Network.md)
+* [Linux](Linux.md)
